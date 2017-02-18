@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Built-By: csommers
+Class-Path: dependency-jars/joda-time-2.5.jar dependency-jars/log4j-1.
+ 2.17.jar
+Build-Jdk: 1.8.0_112
+Created-By: Maven Integration for Eclipse
+Main-Class: com.mkyong.core.utils.App
+
