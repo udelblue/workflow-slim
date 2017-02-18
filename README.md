@@ -1,2 +1,2 @@
 # workflow-slim
-java workflow library
+workflow library
