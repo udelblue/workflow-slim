@@ -1,2 +1,2 @@
 # workflow-slim
-workflow library
+Workflow slim is a java library that manages workflow processes. 
